@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://brunodorea.github.io/nlw-spacetime-explorer/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
@@ -16,7 +16,6 @@
 ## 💻 Projeto
 
 Projeto da `NLW 12 - Spacetime (Trilha Explorer)` da Rocketseat.
-
 
 ## 🚀 Tecnologias
 
